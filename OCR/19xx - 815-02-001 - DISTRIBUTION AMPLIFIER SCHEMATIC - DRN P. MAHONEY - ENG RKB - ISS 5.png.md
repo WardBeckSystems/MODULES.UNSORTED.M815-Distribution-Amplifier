@@ -35,7 +35,7 @@ Wiki page: [M815](../../../../PAGES/M815.md)
 - **Words (OCR):** 166 in 141 lines: ZN2i02 · +25V · 4/25 · 10/25 · R43 · <848 352 · SUM · V3s · INPUT · +IBv · 2n588] · Kymaql
 - **Wiring (first pass):** 133 connected wire groups from 955 runs; labelled ends: 350 mm → WBS, SChf; 246 mm → B8, Kymaql, Loint, FIAV; 222 mm → R43, 636, c29, 1425; 191 mm → Rie, R2z, s0k; 188 mm → [840, R32, iok, 2206p
 
-Every curve, box, word and wire group: [19xx - 815-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 5 (traced).json](../SCHEMATICS/19xx%20-%20815-02-001%20-%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20MAHONEY%20-%20ENG%20RKB%20-%20ISS%205%20(traced).json) (the CAD file: `19xx - 815-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 815-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 5 (traced).json](../SCHEMATICS/19xx%20-%20815-02-001%20-%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20MAHONEY%20-%20ENG%20RKB%20-%20ISS%205%20%28traced%29.json) (the CAD file: `19xx - 815-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 5 (traced).dxf`).
 
 ## Full text
 
